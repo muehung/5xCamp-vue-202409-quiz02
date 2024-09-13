@@ -121,8 +121,8 @@ const keywordsHighlight = (text, keyword) => {
 
 <template>
   <div class="app">
-    <p>
-      站點名稱搜尋: <input type="text" v-model="searchText">
+    <p class="mb-3">
+      站點名稱搜尋: <input class="border" type="text" v-model="searchText">
     </p>
 
     <table class="table table-striped">
