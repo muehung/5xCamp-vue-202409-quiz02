@@ -1,4 +1,4 @@
-# 5xCamp-vue-202405-quiz02
+# 5xCamp-vue-202409-quiz02
 Vue.js 課程 HW2
 
 ## 練習 1 - uBike 表格的元件拆分
